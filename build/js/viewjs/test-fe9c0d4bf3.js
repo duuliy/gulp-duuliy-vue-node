@@ -1,0 +1,1 @@
+"use strict";new Vue({el:"#test",data:function(){return{data:"666"}},filters:{},computed:{},methods:{test:function(){console.log(666)}},watch:{},created:function(){},mounted:function(){}});
